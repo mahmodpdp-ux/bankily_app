@@ -1,5 +1,4 @@
 
-          
 name: Build Flutter APK
 
 on:
@@ -33,3 +32,4 @@ jobs:
         with:
           name: app-release
           path: bankily_app/build/app/outputs/flutter-apk/app-release.apk
+
